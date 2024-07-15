@@ -6,7 +6,7 @@
 // const myArray = text.split("x",2);
 // console.log(myArray);
 
-let text = "Prajwol";
+let text = "Prajwol shrestha";
 const myArray = text.split("");
 console.log(myArray);
 

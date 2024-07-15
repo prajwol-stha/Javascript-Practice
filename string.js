@@ -6,7 +6,7 @@ const str='prajwol'
 // }
 // console.log(count);
 
-
+//reverse
     for(let i=0;str[i]!==undefined; i++){
         console.log(str[i]);
         // console.log(i);
